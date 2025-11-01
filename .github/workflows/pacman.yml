@@ -1,27 +1,33 @@
-name: Generate Pacman Contribution Graph
+name: Generate pacman animation
+
 on:
-  schedule:
-    - cron: "0 0 * * *" # runs every day at midnight
-  workflow_dispatch:    # allows manual run
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+    - main
 
 jobs:
-  build:
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Generate Pacman contribution graph
-        uses: yoshi389111/github-profile-3d-contrib@0.6.0
+      - name: generate pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: moooshooo
-          TEMPLATE: pacman
+          github_user_name: ${{ github.repository_owner }}
 
-      - name: Commit and push generated files
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add .
-          git commit -m "Generate Pacman graph" || echo "No changes to commit"
-          git push origin output --force
+
+      - name: push pacman-contribution-graph.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
