@@ -1,0 +1,27 @@
+name: Generate Pacman Contribution Graph
+on:
+  schedule:
+    - cron: "0 0 * * *" # runs every day at midnight
+  workflow_dispatch:    # allows manual run
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Pacman contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@0.6.0
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: moooshooo
+          TEMPLATE: pacman
+
+      - name: Commit and push generated files
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add .
+          git commit -m "Generate Pacman graph" || echo "No changes to commit"
+          git push origin output --force
