@@ -15,6 +15,9 @@
   <img src="https://github-profile-trophy.vercel.app?username=moooshooo&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
+
+
+
 # 💫 About Me:
 🔭 I’m currently studying to become a Fullstack Developer<br>My goal is to connect the dots of my fragmented knowledge and grow into a valuable contributor within a software team.<br>👯 I’m looking to collaborate on<br>Projects that encourage learning, creativity, and teamwork, especially those that combine technology and leadership.<br>🌱 I’m currently learning<br>React, Node.js, Socket.IO and how to build scalable applications that make an impact.<br>💬 Ask me about<br>Leadership, servant leadership, and how to become the kind of leader a team doesn’t need.<br>⚡ Fun fact<br>I really like frogs 🐸 and rabbits 🐰, they remind me to stay curious and jump into new challenges!
 
