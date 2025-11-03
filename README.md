@@ -4,14 +4,14 @@
 </div>
 
 ---
-
 ```bash
 > wake_up.sh
 root@onemachinetoruleemall:/$ System online...
-root@onemachinetoruleemall:/$ Loading neural life...
-root@onemachinetoruleemall:/home/mos$ Compiling life.exe...
-root@onemachinetoruleemall:/$ Executing delete life.exe...
-React .......... :/
+root@onemachinetoruleemall:/usr/mos$ Compiling optimism...
+root@onemachinetoruleemall:/usr/mos$ npm run focus
+✅ Success: minimal distractions
+root@onemachinetoruleemall:/usr/mos$ node life.js
+⚠️ Warning: unexpected adulting detected
 ```
 ---
 
