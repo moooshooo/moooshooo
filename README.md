@@ -32,12 +32,12 @@ root@onemachinetoruleemall:/usr/mos$ node life.js
 ---
 
 ## 💫 About Me
-
-🔭 I’m currently studying to become a Fullstack Developer
-🎯 My goal is to connect the dots of my fragmented knowledge and grow into a valuable contributor within a software team.
-👯 I’m looking to collaborate on projects that encourage learning, creativity, and teamwork – especially those that combine technology and leadership.
-🌱 I’m currently learning React, Node.js, Socket.IO and how to build scalable applications that make an impact.
-💬 Ask me about leadership, servant leadership, and how to become the kind of leader a team doesn’t need.
+<br/><br/>
+🔭 I’m currently studying to become a Fullstack Developer<br/>
+🎯 My goal is to connect the dots of my fragmented knowledge and grow into a valuable contributor within a software team.<br/>
+👯 I’m looking to collaborate on projects that encourage learning, creativity, and teamwork – especially those that combine technology and leadership.<br/>
+🌱 I’m currently learning React, Node.js, Socket.IO and how to build scalable applications that make an impact.<br/>
+💬 Ask me about leadership, servant leadership, and how to become the kind of leader a team doesn’t need.<br/>
 ⚡ Fun fact: I really like frogs 🐸 and rabbits 🐰, they remind me to stay curious and jump into new challenges!
 
 ---
