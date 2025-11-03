@@ -1,16 +1,17 @@
 <!-- 🌿 MATRIX EDITION README 🌿 -->
 <div align="center">
-
-<h1 style="color:#00ff41;">🕶️ M. St. Leon</h1>
-
-<p style="color:#00ff41;">
-<em>“Wake up, developer. The Matrix has code.”</em>
-</p>
-
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="400" alt="Matrix code rain"/>
-
+  <h1>🕶️ M. St. Leon</h1>
 </div>
 
+---
+
+```bash
+> wake_up.sh
+System online...
+Loading neural life...
+Compiling life.exe...
+Executing delete life.exe...
+React .......... :/
 ---
 
 <div align="center">
@@ -31,11 +32,11 @@
 
 ## 💫 About Me
 
-🔭 I’m currently studying to become a Fullstack Developer  
-🎯 My goal is to connect the dots of my fragmented knowledge and grow into a valuable contributor within a software team.  
-👯 I’m looking to collaborate on projects that encourage learning, creativity, and teamwork – especially those that combine technology and leadership.  
-🌱 I’m currently learning React, Node.js, Socket.IO and how to build scalable applications that make an impact.  
-💬 Ask me about leadership, servant leadership, and how to become the kind of leader a team doesn’t need.  
+🔭 I’m currently studying to become a Fullstack Developer
+🎯 My goal is to connect the dots of my fragmented knowledge and grow into a valuable contributor within a software team.
+👯 I’m looking to collaborate on projects that encourage learning, creativity, and teamwork – especially those that combine technology and leadership.
+🌱 I’m currently learning React, Node.js, Socket.IO and how to build scalable applications that make an impact.
+💬 Ask me about leadership, servant leadership, and how to become the kind of leader a team doesn’t need.
 ⚡ Fun fact: I really like frogs 🐸 and rabbits 🐰, they remind me to stay curious and jump into new challenges!
 
 ---
@@ -78,13 +79,4 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-
----
-
-## 🧩 Fun Add-ons
-
-```bash
-> wake_up.sh
-System online...
-Loading neural pathways...
-Compiling creativity.exe...
+```
