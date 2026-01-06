@@ -1,6 +1,6 @@
 <!-- 🌿 MATRIX EDITION README 🌿 -->
 <div align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=%2359A9FF&center=true&lines=TO+BECOME+FULLSTACK+DEVELOPER;M.+St.+Leon" /></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=00ff41&center=true&lines=TO+BECOME+FULLSTACK+DEVELOPER;M.+St.+Leon" /></a>
 </div>
 
 ---
