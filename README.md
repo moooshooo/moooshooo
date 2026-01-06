@@ -2,6 +2,9 @@
 <div align="center">
   <h1>🕶️ M. St. Leon</h1>
 </div>
+<p align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=%2359A9FF&center=true&lines=TO+BECOME+FULLSTACK+DEVELOPER;M.+St.+Leon" /></a>
+</p>
 
 ---
 ```bash
