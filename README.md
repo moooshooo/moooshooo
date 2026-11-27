@@ -1,6 +1,6 @@
 <!-- 🌿 MATRIX EDITION README 🌿 -->
 <div align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=00ff41&center=true&lines=TO+BECOME+FULLSTACK+DEVELOPER;M.+St.+Leon" /></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=00ff41&center=true&lines=PSM+&+FULLSTACK+DEVELOPER;M.+St.+Leon" /></a>
 </div>
 
 ---
@@ -16,17 +16,17 @@ root@onemachinetoruleemall:/usr/mos$ node life.js
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moooshooo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=moooshooo&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moooshooo&radius=16&theme=gotham&bg_color=000000&color=00ff41&line=00ff41&point=00ff41&area=true&area_color=003300&hide_border=true&order=5" height="300" alt="activity graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moshito&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=moshito&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moshito&radius=16&theme=gotham&bg_color=000000&color=00ff41&line=00ff41&point=00ff41&area=true&area_color=003300&hide_border=true&order=5" height="300" alt="activity graph"  />
 </div>
 
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moooshooo/moooshooo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moooshooo/moooshooo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/moooshooo/moooshooo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moshito/moshito/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moshito/moshito/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/moshito/moshito/output/pacman-contribution-graph-dark.svg">
 </picture>
 
 ---
